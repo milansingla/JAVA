@@ -3,6 +3,7 @@
 
 int main() {
     int n;
+    // hellooo
     printf("n: ");
     if (scanf("%d", &n) != 1 || n <= 0) return 0;
     int a[n];
